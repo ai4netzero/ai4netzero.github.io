@@ -1,0 +1,17 @@
+main:
+  - title: "ECO-AI"
+    url: /ecoai_project/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "Projects"
+    url: /projects/
+  - title: "Team"
+    url: /team/
+  - title: "Opportunities"
+    url: /opportunities/
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: /about/
