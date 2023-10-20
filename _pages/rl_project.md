@@ -1,0 +1,61 @@
+---
+permalink: /rl_project/
+title: "RL-Control project"
+layout: splash
+classes: wide
+author_profile: false
+toc: true
+toc_sticky: true
+search: true
+---
+## Reinforcement Learning for flow control
+
+RL-Control is a UKRI funded project (RC Grant reference: EP/V048899/1) aiming to develop efficient algorithms for active flow control. Flow control is the process of targeted manipulation of fluid flow fields to accomplish a prescribed objective such as reducing drag. Flow control uses information from the flow (provided by sensors) to adapt to incoming perturbations and adjust to changing flow conditions. Despite its significance, general flow control is a largely unsolved mathematical problem appearing in many industries, including automotive, aerospace and environmental subsurface flow problems. In this project, Reinforcement Learning (RL) algorithms will be utilized to learn general flow control polices using reliable simulated flow environments. 
+
+**Checkout [Gym-preCICE](https://github.com/gymprecice/gymprecice), an open source library to facilitate the development of Reinforcement Learning (RL) environments for single- and multi-physics active flow control (AFC) applications**
+{: .notice--danger}
+
+## Workpackages and tasks
+- WP1: Basic formulation and test suite development
+- WP2: Formulation and algorithmic development of multi-level RL algorithms
+- WP3: Evaluation studies and software release)
+
+## National and global importance
+The proposed interdisciplinary research has the potential for substantial impact across multiple EPSRC priority areas. Specifically, it integrates the expertise of two key areas: (a) continuum mechanics; flow modelling and control, and (b) Statistics and Applied Probability; featuring advanced multi-level Monte-Carlo techniques. This proposal delves into the challenging problem of nonlinear flow control for systems that are partially observed and subjected to stochastic perturbations or possess uncertain model parameters. Moreover, the intended work seeks to provide a statistically rigorous formulation to enhance the RL algorithm crafted by the machine learning research community. Such advancement will enrich both research communities and the computational science & engineering domain
+
+
+## Project team at Heriot-Watt University (HWU)
+- Principal Investigator: [Prof. Ahmed H. Elsheikh](https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh), School of Energy, Geosci, Infrast & Society
+- Postdoctoral Research Associate: Dr. Mosayeb Shams, School of Energy, Geosci, Infrast & Society
+- Research Associate: Dr. Atish Dixit, School of Energy, Geosci, Infrast & Society
+
+
+<!-- ## test code embedding
+
+```python
+def foo():
+    if not bar:
+        return True
+```
+### Figures in the text:
+
+{% include figure image_path="/assets/images/unsplash-image-1.jpg" alt="this is a placeholder image" caption="This is a figure caption." %} -->
+
+## Project Publications
+
+- Mosayeb Shams, Ahmed H. Elsheikh, **Gym-preCICE: Reinforcement learning environments for active flow control**, SoftwareX, Volume 23, (2023), [URL](https://doi.org/10.1016/j.softx.2023.101446)
+
+- Atish Dixit, Ahmed H. Elsheikh, **Robust Optimal Well Control using an Adaptive Multigrid Reinforcement Learning Framework**, Mathematical Geosciences, Volume 55, 345–375 (2023), [URL](https://doi.org/10.1007/s11004-022-10033-x)
+
+- Atish Dixit, Ahmed H. Elsheikh, **Stochastic optimal well control in subsurface reservoirs using reinforcement learning**, Engineering Applications of Artificial Intelligence, Volume 114 (2022), [URL](https://doi.org/10.1016/j.engappai.2022.105106)
+
+- Atish Dixit, Ahmed H. Elsheikh, **A multilevel reinforcement learning framework for PDE based control**, arXiv preprint (2022), [URL](https://arxiv.org/abs/2210.08400)
+
+
+### Contact details
+```
+Email: <a.elsheikh> at Heriot-Watt address <hw.ac.uk>
+Post: Heriot-Watt University, Edinburgh, EH14 1AS, UK
+Tel: +44 (0)131 451 8304
+Fax: +44 (0)131 451 3127
+```
