@@ -18,11 +18,7 @@ RL-Control is a UKRI funded project (RC Grant reference: EP/V048899/1) aiming to
 ## Workpackages and tasks
 - WP1: Basic formulation and test suite development
 - WP2: Formulation and algorithmic development of multi-level RL algorithms
-- WP3: Evaluation studies and software release)
-
-## National and global importance
-The proposed interdisciplinary research has the potential for substantial impact across multiple EPSRC priority areas. Specifically, it integrates the expertise of two key areas: (a) continuum mechanics; flow modelling and control, and (b) Statistics and Applied Probability; featuring advanced multi-level Monte-Carlo techniques. This proposal delves into the challenging problem of nonlinear flow control for systems that are partially observed and subjected to stochastic perturbations or possess uncertain model parameters. Moreover, the intended work seeks to provide a statistically rigorous formulation to enhance the RL algorithm crafted by the machine learning research community. Such advancement will enrich both research communities and the computational science & engineering domain
-
+- WP3: Evaluation studies and software release
 
 ## Project team at Heriot-Watt University (HWU)
 - Principal Investigator: [Prof. Ahmed H. Elsheikh](https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh), School of Energy, Geosci, Infrast & Society
