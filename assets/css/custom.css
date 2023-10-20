@@ -1,0 +1,35 @@
+.my-color-box {
+    background-color: #eef;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+
+.clickable-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem; /* spacing between boxes */
+  justify-content: space-between; /* spaces boxes evenly apart */
+  margin-bottom: 2rem; /* space after the boxes */
+}
+
+.box {
+  flex: 1 1 calc(50% - 0.5rem); /* assumes a 1rem gap, so each box will take half the width minus half the gap */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; /* centers the text itself */
+  height: 150px; /* box height */
+  background-color: #e6ffe6; /* light green background color */
+  border: 3px solid #006400; /* dark green border */
+  border-radius: 15px; /* rounded corners */
+  text-decoration: none;
+  color: black; /* black text */
+  font-weight: bold; /* bold text */
+  transition: background-color 0.3s;
+}
+
+.box:hover {
+  background-color: #d0d0e0; /* change color on hover */
+}

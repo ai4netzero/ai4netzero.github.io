@@ -12,8 +12,16 @@ search: true
 
 Surrogate-modeling techniques including Polynomial Chaos Expansion (PCE) is widely used for statistical estimation (aka. Uncertainty Quantification) of quantities of interests. PCE is a data-driven regression-based technique that relies on spectral polynomials as basis-functions. In this technique, the outputs of few numerical simulations (e.g. expensive computational models) are used to estimate the PCE coefficients within a regression framework combined with regularization techniques where the regularization parameters are estimated using standard cross-validation as applied in supervised machine learning methods. In the project we introduced an efficient method for estimating the PCE coefficients combining Elastic Net regularization with a data-driven feature ranking approach. Our goal is to increase the probability of identifying the most significant PCE components by assigning each of the PCE coefficients a numerical value reflecting the magnitude of the coefficient and its stability with respect to perturbations in the input data. In our evaluations, the proposed approach has shown high convergence rate for high-dimensional problems, where standard feature ranking might be challenging due to the curse of dimensionality. The presented method is implemented within a standard machine learning library ([scikit-learn](https://scikit-learn.org/stable/index.html)) allowing for easy experimentation with various solvers and regularization techniques (e.g. Tikhonov, LASSO, LARS, Elastic Net) and enabling automatic cross-validation techniques using a widely used and well tested implementation. We present a set of numerical tests on standard analytical functions, a two-phase subsurface flow model and a simulation dataset for CO2 sequestration in a saline aquifer. For all test cases, the proposed approach resulted in a significant increase in PCE convergence rates.
 
-**Checkout [polychaos-learn](https://github.com/ahmed-h-elsheikh/polychaos-learn), an open source Polynomial Chaos Expansions library**
+<!-- **Checkout [polychaos-learn](https://github.com/ahmed-h-elsheikh/polychaos-learn), an open source Polynomial Chaos Expansions library**
 {: .notice--danger}
+
+ -->
+<div class="my-color-box">
+
+Checkout <a href="https://github.com/ahmed-h-elsheikh/polychaos-learn">polychaos-learn</a> an open source Polynomial Chaos Expansions library for surrogate modeling, uncertainty quantification and optimal experimental design
+
+</div>
+
 
 - Alexander Tarakanov, Ahmed H. Elsheikh, **Regression-based sparse polynomial chaos for uncertainty quantification of subsurface flow models**, Journal of Computational Physics, Volume 399, (2019). [URL](https://doi.org/10.1016/j.jcp.2019.108909)
 
@@ -73,10 +81,3 @@ def foo():
 
 {% include figure image_path="/assets/images/unsplash-image-1.jpg" alt="this is a placeholder image" caption="This is a figure caption." %} -->
 
-### Contact details
-```
-Email: <a.elsheikh> at Heriot-Watt address <hw.ac.uk>
-Post: Heriot-Watt University, Edinburgh, EH14 1AS, UK
-Tel: +44 (0)131 451 8304
-Fax: +44 (0)131 451 3127
-```

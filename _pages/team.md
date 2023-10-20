@@ -57,22 +57,6 @@ feature_row1:
               - Computational Geophysics<br />
             "
 
-  - image_path: /assets/images/alhasan-photo.jpg
-    alt: "Missing photo"
-    title: ""
-    excerpt: ""
-    url: "https://alhasanabdellatif.medium.com/"
-    btn_label: "webpage"
-    btn_class: "btn--primary"
-    excerpt: "<h2>Alhasan Abdellatif (MAsc)</h2>
-              **Education & Biography**<br />
-              - PhD student, Heriot-Watt University, UK<br />
-              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
-              **Research**<br />
-              - Generative adversarial networks<br />
-              - Deep learning and image segmentation<br />
-              - Kernel Methods<br />
-            "
   - image_path: /assets/images/chinTee-photo.jpg
     alt: "Missing photo"
     title: ""
@@ -170,6 +154,23 @@ feature_row2:
               - Model Order Reduction<br />
               "
 
+  - image_path: /assets/images/alhasan-photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://alhasanabdellatif.medium.com/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Alhasan Abdellatif (PhD)</h2>
+              **Education & Biography**<br />
+              - PhD 2023, Heriot-Watt University, UK<br />
+              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
+              **Research**<br />
+              - Generative adversarial networks<br />
+              - Deep learning and image segmentation<br />
+              - Kernel Methods<br />
+            "
+
   - image_path: /assets/images/alex-photo.jpg
     alt: "Missing photo"
     title: ""
@@ -210,15 +211,4 @@ feature_row2:
 
 <!-- {% include feature_rows id="feature_row2" type="left" %}
  -->
-<!-- ---
-## PhD students
 
-- Shing Chan, Machine learning methods for uncertainty quantification in subsurface reservoirs, December 2018.
-- Nagoor J. Khan, Multi-Fidelity deep residual recurrent neural networks for uncertainty quantification, December 2018.
-- Muzammil H Rammay, Calibration and prediction improvement of imperfect subsurface flow models, January 2020.
-- Atish Dixet, Robust fluid control using reinforcement learning, Exp. May 2022.
-- Alhasan Abdellatif, Geological and environmental data generation using Generative Adversarial Networks, Exp. May 2023.
-- Timur  Shininov, Multiscale modeling using analytical and machine learned solutions, Exp. December 2023.
-- Ang Chin Tee, Seismic interpretation using Deep Neural Network with Geological Constraints, Exp. December 2023.
-- Ahmad Sharif A Rahman, Deep learning based super resolution for seismic data reconstruction, Exp. December 2023.
- -->
