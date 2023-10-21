@@ -17,7 +17,7 @@ Deep learning techniques, particularly those that manage high-dimensional spatia
 
 ## Project Publications
 - Alhasan Abdellatif, Ahmed H. Elsheikh, **Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm**,
-arXiv preprint (20223. [URL](https://arxiv.org/abs/2309.02340)
+arXiv preprint (2023). [URL](https://arxiv.org/abs/2309.02340)
 - Alhasan Abdellatif, Ahmed H. Elsheikh, Daniel Busby, Philippe Berthet, **Generation of non-stationary stochastic fields using Generative Adversarial Networks**, arXiv preprint (2022). [URL](https://arxiv.org/abs/2205.05469)
 - Alhasan Abdellatif, Ahmed H Elsheikh, Gavin Graham, Daniel Busby, Philippe Berthet, **Generating unrepresented proportions of geological facies using Generative Adversarial Networks**, Computers & Geosciences, Volume 162, (2022). [URL](https://doi.org/10.1016/j.cageo.2022.105085)
 

@@ -9,6 +9,8 @@ main:
   #   url: /tags/
   - title: "Projects"
     url: /projects/
+  - title: "Publications"
+    url: https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh/publications/
   - title: "Team"
     url: /team/
   - title: "Opportunities"

@@ -73,10 +73,6 @@ author:
     - label: "GoogleScholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=TQeG3aUAAAAJ&hl=en"
-    - label: "Publications"
-      icon: "fas fa-fw fa-link"
-      url: "https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh/publications/"
-
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ai4netzero"
