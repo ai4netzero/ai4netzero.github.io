@@ -10,7 +10,7 @@ feature_row1:
   - image_path: /assets/images/ahmed-photo-3.jpg
     alt: "Missing photo"
     title: ""
-    url: "https://scholar.google.com/citations?user=TQeG3aUAAAAJ&hl=en&oi=ao"
+    url: "https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh"
     btn_label: "webpage"
     btn_class: "btn--primary"
     excerpt: "<h2>Ahmed H. Elsheikh (Group leader)</h2>
@@ -190,10 +190,10 @@ feature_row2:
 ---
 {% include feature_rows id="feature_row1" type="left"%}
 
-# Former group members
+## Former group members
 {% include feature_rows id="feature_row2" type="left"%}
 
-# Collaborators
+## Collaborators
 - Mary F. Wheeler, The University of Texas at Austin [[webpage](https://users.oden.utexas.edu/~mfw/)]
 - Ibrahim Hoteit, King Abdullah University of Science and Technology [[webpage](https://www.kaust.edu.sa/en/study/faculty/ibrahim-hoteit)]
 - Christopher Pain, Imperial College London [[webpage](https://www.imperial.ac.uk/people/c.pain)]

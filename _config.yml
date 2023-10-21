@@ -67,21 +67,25 @@ author:
   bio    : "Professor, School of Energy, Geoscience, Infrastructure and Society, Heriot-Watt University"
   location: "Edinburgh, UK"
   links:
-    # - label: "ResearchPortal"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh"
+    - label: "ResearchPortal"
+      icon: "fas fa-fw fa-link"
+      url: "https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh"
     - label: "GoogleScholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=TQeG3aUAAAAJ&hl=en"
+    - label: "Publications"
+      icon: "fas fa-fw fa-link"
+      url: "https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh/publications/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ahmed-h-elsheikh"
+      url: "https://github.com/ai4netzero"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ahmed-h-elsheikh-799a17205/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ProfElsheikh/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/ProfElsheikh/"
 
 footer:
   links:
