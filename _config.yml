@@ -64,8 +64,8 @@ plugins:
 author:
   name   : "Ahmed H. Elsheikh"
   avatar : "/assets/images/ahmed-photo-2.jpg"
-  bio    : "Professor, School of Energy, Geoscience, Infrastructure and Society, Heriot-Watt University"
-  location: "Edinburgh, UK"
+  bio    : "Professor, School of Energy, Geoscience, Infrastructure and Society, Heriot-Watt University, Edinburgh, UK"
+  # location: "Edinburgh, UK"
   links:
     - label: "ResearchPortal"
       icon: "fas fa-fw fa-link"

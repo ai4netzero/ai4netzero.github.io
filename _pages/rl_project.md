@@ -2,17 +2,23 @@
 permalink: /rl_project/
 title: "RL-Control project"
 layout: splash
-classes: wide
+# classes: wide
 author_profile: false
 toc: true
 toc_sticky: true
 search: true
+gallery1:
+  - url: /assets/project_images/drl-gymprecice.jpg
+    image_path: assets/project_images/drl-gymprecice.jpg
+    alt: "drl-gymprecice"
+
 ---
 ## Reinforcement Learning for flow control
 RL-Control is a UKRI funded project (Grant reference: [EP/V048899/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V048899/1)) aiming to develop efficient algorithms for active flow control. Flow control is the process of targeted manipulation of fluid flow fields to accomplish a prescribed objective such as reducing drag. Flow control uses information from the flow (provided by sensors) to adapt to incoming perturbations and adjust to changing flow conditions. Despite its significance, general flow control is a largely unsolved mathematical problem appearing in many industries, including automotive, aerospace and environmental subsurface flow problems. In this project, Reinforcement Learning (RL) algorithms will be utilized to learn general flow control polices using reliable simulated flow environments. 
 
 <div class="my-color-box">
 Checkout <a href="https://github.com/gymprecice/gymprecice">Gym-preCICE</a> an open source library to facilitate the development of Reinforcement Learning (RL) environments for single- and multi-physics active flow control (AFC) applications
+{% include gallery id="gallery1"%}
 </div>
 
 

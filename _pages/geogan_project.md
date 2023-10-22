@@ -7,9 +7,22 @@ author_profile: false
 toc: true
 toc_sticky: true
 search: true
+
+gallery1:
+  - url: /assets/project_images/non-stationary1.jpg
+    image_path: assets/project_images/non-stationary1.jpg
+    alt: "generated non-stationary fields"
+
+  - url: /assets/project_images/non-stationary2.jpg
+    image_path: assets/project_images/non-stationary2.jpg
+    alt: "generated non-stationary fields"
+
 ---
 ## Representation and Generation of stochastic fields using GANs
 Deep learning techniques, particularly those that manage high-dimensional spatial data, are gaining traction for computational applications similar to their role in computer vision. Among these techniques, generative adversarial networks (GANs) have emerged as a promising tool for the parametrization and synthesis of spatial geological models. GANs efficiently learns a neural network parametrization of the geology —referred to as a generator network— that is capable of reproducing very complex geological patterns with dimensionality reduction of several orders of magnitude. In this project, we address three main challenges of using GANs for representing stochastic geological fields: (a) efficient training under limited data, (b) handling non-stationary field generation, and (c) generation of large-scale models on commodity GPUs with limited memory. This project is funded by TotalEnergies with the aim of understanding the impact of geological uncertainties on the safe storage of CO2 in deep geological formations.
+
+
+{% include gallery id="gallery1" layout="half" caption="Sample of generated non-stationary fields using conditional GANs." %}
 
 ## Project team at Heriot-Watt University (HWU)
 - Principal Investigator: [Ahmed H. Elsheikh](https://researchportal.hw.ac.uk/en/persons/ahmed-h-elsheikh)
