@@ -27,7 +27,6 @@ feature_row1:
               - Multiscale & Mathematical modeling<br />
               - Uncertainty Quantification<br />
             "
-
   - image_path: /assets/images/mosayeb_photo.jpg
     alt: "Missing photo"
     title: ""
@@ -37,14 +36,13 @@ feature_row1:
     btn_class: "btn--primary"
     excerpt: "<h2>Mosayeb Shams (PhD)</h2>
               **Education & Biography**<br />
-              - Research Associate, Heriot-Watt University, UK <br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
               - PhD, Imperial College London, United Kingdom<br />
               **Research**<br />
               - Reinforcement Learning<br />
               - Computational Physics<br />
               - Optimisation and Control<br />
             "
-
   - image_path: /assets/images/haifa_photo.jpg
     alt: "Missing photo"
     title: ""
@@ -54,14 +52,29 @@ feature_row1:
     btn_class: "btn--primary"
     excerpt: "<h2>Haifa AlSalmi (PhD)</h2>
               **Education & Biography**<br />
-              - Research Associate, Heriot-Watt University, UK <br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
               - PhD, Imperial College London, United Kingdom<br />
               **Research**<br />
               - Deep Learning and Image Segmentation<br />
               - Signal Analysis and processing<br />
               - Computational Geophysics<br />
             "
-
+  - image_path: /assets/images/marcos_cirne.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://scholar.google.com/citations?user=je8YxFkAAAAJ&hl=en"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Marcos Cirne (PhD)</h2>
+              **Education & Biography**<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
+              - PhD, Universidade Estadual de Campinas, Brazil<br />
+              **Research**<br />
+              - Deep Learning<br />
+              - Computer Vision<br />
+              - Reservoir Data Analysisl<br />
+            "
   - image_path: /assets/images/chinTee-photo.jpg
     alt: "Missing photo"
     title: ""
@@ -94,8 +107,22 @@ feature_row1:
               - Deep learning and image super-resolution mapping<br />
               - Temporal alignment<br />
             "
-  - image_path: /assets/images/
-
+  - image_path: /assets/images/minghui_ye.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://yeminghui.github.io/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Minghui Ye (B.Eng.)</h2>
+              **Education & Biography**<br />
+              - PhD student, Heriot-Watt University, UK<br />
+              - B.Eng. 2023, Robotics Engineering, Guangzhou University, China<br />
+              **Research**<br />
+              - Reinforcement Learning<br />
+              - Uncertainty Quantification<br />
+              - Optimisation and Control<br />
+            "
 
 feature_row2:
   - image_path: /assets/images/shing-photo-2.jpg
