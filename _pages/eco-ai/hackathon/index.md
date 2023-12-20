@@ -116,7 +116,11 @@ Register Now and be a part of the ECO-AI Workshop!
   <tr>
     <td rowspan="3">Thursday 14<sup>th</sup></td>
     <td>09:00 - 12:00</td> 
-    <td>Coding Begins (3 hours)</td>
+    <td>
+      <ul>
+       <li>Coding Begins (3 hours)</li>
+     </ul>
+   </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
@@ -135,7 +139,11 @@ Register Now and be a part of the ECO-AI Workshop!
   <tr>
     <td rowspan="3">Friday 15<sup>th</sup></td>
     <td>09:00 - 12:00</td>
-    <td>Final Stretch (3 hours)</td>
+    <td> 
+     <ul>
+       <li>Final Stretch (3 hours)</li>
+     </ul>
+    </td>
   </tr>
   <tr>
     <td>12:00 - 13:00 </td>

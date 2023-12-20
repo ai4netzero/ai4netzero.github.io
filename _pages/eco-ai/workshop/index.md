@@ -42,7 +42,7 @@ Register Now: Click here to register.<br>
 The workshop is open to all interested participants. Registration is required for logistical purposes.
  -->
 ## Contact Us
-If you have any questions about the application process or the event itself, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk )
+If you have any questions about the registration process or the event itself, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk )
 
 <!-- We're excited to host this enlightening workshop at Heriot-Watt University, bringing together the brightest minds in AI and CCS. Don't miss this opportunity to be at the forefront of AI-driven environmental solutions.
 
