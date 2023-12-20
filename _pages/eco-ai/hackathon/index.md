@@ -16,7 +16,7 @@ header:
 ---
 # ECO-AI Hackathon: AI-Driven Solutions for Carbon Capture and Storage
 
-Join forces with your fellow researchers (PhD students & PDRAs) from across the UK to innovate and collaborate on one of the AI for NetZero approaches. Over the course of a three days, you'll be challenged to work on unique problems related to carbon capture and storage & it's economics and policy implications. You’ll be provided with the tools, support, and data needed so you can write the code to unblock some of the challenges in material discovery using AI, subsurface flow modelling using AI and uncovering progress by clustering of CCS patents using AI.
+Join forces with your fellow researchers (PhD students & PDRAs) from across the UK to innovate and collaborate exploring AI for NetZero approaches. Over the course of a three days, you'll be challenged to work on unique problems related to carbon capture and storage (CCS), and its economics and policy implications. You will be provided with the tools, support, and data needed to write new codes and study current challenges in material discovery using AI, subsurface flow modelling using AI, and uncovering progress by abstract clustering of CCS patents using AI.
 
 Participating researchers will receive informative workshops and mentorship from Heriot-Watt University (HWU) and Imperial College London (ICL) experts working within the ECO-AI project. 
 
