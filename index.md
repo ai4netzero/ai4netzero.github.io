@@ -6,9 +6,8 @@ layout: single
 author_profile: true
 title: "Scientific Computing and AI for NetZero"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.55"
-  overlay_image: /assets/images/cluster-4.png
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/AI4NZ_banner3.png # cluster-4.png
   overlay_text: ""
 excerpt: " "
 feature_row1:
@@ -228,7 +227,7 @@ I lead the AI4NetZero research group at Heriot-Watt University in Edinburgh. Our
 
 ## Recent UKRI funded projects
 <div class="clickable-boxes">
-  <a href="/ecoai_project" class="box">Enabling CO2 capture and storage using AI</a>
+  <a href="/eco-ai/" class="box">Enabling CO2 capture and storage using AI</a>
   <a href="/rl_project" class="box">Reinforcement Learning for flow control</a>
   <!-- Add more boxes as needed -->
 </div>

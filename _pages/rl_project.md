@@ -3,6 +3,11 @@ permalink: /rl_project/
 title: "RL-Control project"
 layout: splash
 # classes: wide
+header:
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/AI4NZ_banner3.png # cluster-4.png
+  overlay_text: ""
+
 author_profile: false
 toc: true
 toc_sticky: true

@@ -7,6 +7,10 @@ author_profile: false
 toc: true
 toc_sticky: true
 search: true
+header:
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/AI4NZ_banner3.png # cluster-4.png
+  overlay_text: ""
 
 gallery1:
   - url: /assets/project_images/non-stationary1.jpg

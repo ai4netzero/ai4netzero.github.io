@@ -1,12 +1,13 @@
 ---
+permalink: /team/
 title: "Group members and collaborators"
 layout: splash
 classes: wide
-permalink: /team/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.65"
-  overlay_image: /assets/images/cluster-4.png
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/AI4NZ_banner3.png # cluster-4.png
+  overlay_text: ""
+
 feature_row1:
   - image_path: /assets/images/ahmed-photo-3.jpg
     alt: "Missing photo"

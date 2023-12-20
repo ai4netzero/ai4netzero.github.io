@@ -60,6 +60,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
+
 
 author:
   name   : "Ahmed H. Elsheikh"
@@ -108,9 +110,6 @@ defaults:
       classes: wide
       share: true
       related: true
-      # header:
-      #   overlay_image: /assets/images/cluster-3.jpg
-      #   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   # _pages
   - scope:
       path: "_pages"
@@ -118,11 +117,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
         # image: /assets/images/unsplash-image-1.jpg
         # og_image: /assets/images/unsplash-image-1.jpg
-        overlay_image: /assets/images/cluster-4.png
-        overlay_filter: 0.45 # same as adding an opacity of 0.5 to a black background
+        # overlay_image: /assets/images/cluster-4.png
+        # style: "width: auto; height: 100%; background-position: 100% 0;"
+        # overlay_filter: 0.45 # same as adding an opacity of 0.5 to a black background
         # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
         # actions:
         #   - label: "More Info"

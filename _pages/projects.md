@@ -7,11 +7,15 @@ author_profile: true
 toc: true
 toc_sticky: true
 search: true
+header:
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/AI4NZ_banner3.png # cluster-4.png
+  overlay_text: ""
 ---
 
 ## Recent UKRI funded projects
 <div class="clickable-boxes">
-  <a href="/ecoai_project" class="box">Enabling CO2 capture and storage using AI</a>
+  <a href="/eco-ai/" class="box">Enabling CO2 capture and storage using AI</a>
   <a href="/rl_project" class="box">Reinforcement Learning for flow control</a>
   <!-- Add more boxes as needed -->
 </div>
