@@ -16,11 +16,11 @@ header:
 
 ---
 
-<!-- <div class="clickable-boxes">
+<div class="clickable-boxes">
   <a href="/eco-ai/workshop" class="box">Join us at: <br>ECO-AI first Workshop (11-12 March, 2024)</a>
   <a href="/eco-ai/hackathon" class="box">Join us at: <br>ECO-AI first Hackathon (13-15 March, 2024)</a>
 </div>
- -->
+
 
 ## Enabling CO2 capture and storage using AI 
 
