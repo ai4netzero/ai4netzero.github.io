@@ -26,22 +26,6 @@ feature_row1:
               - Multiscale & Mathematical modeling<br />
               - Uncertainty Quantification<br />
             "
-  - image_path: /assets/images/mosayeb_photo.jpg
-    alt: "Missing photo"
-    title: ""
-    excerpt: ""
-    url: "https://www.linkedin.com/in/mosayebshams/"
-    btn_label: "webpage"
-    btn_class: "btn--primary"
-    excerpt: "<h2>Mosayeb Shams (PhD)</h2>
-              **Education & Biography**<br />
-              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
-              - PhD, Imperial College London, United Kingdom<br />
-              **Research**<br />
-              - Reinforcement Learning<br />
-              - Computational Physics<br />
-              - Optimisation and Control<br />
-            "
   - image_path: /assets/images/haifa_photo.jpg
     alt: "Missing photo"
     title: ""
@@ -73,6 +57,23 @@ feature_row1:
               - Deep Learning<br />
               - Computer Vision<br />
               - Reservoir Data Analysisl<br />
+            "
+  - image_path: /assets/images/alhasan-photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://alhasanabdellatif.medium.com/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Alhasan Abdellatif (PhD)</h2>
+              **Education & Biography**<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
+              - PhD 2023, Heriot-Watt University, UK<br />
+              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
+              **Research**<br />
+              - Generative adversarial networks<br />
+              - Deep learning and image segmentation<br />
+              - Kernel Methods<br />
             "
   - image_path: /assets/images/chinTee-photo.jpg
     alt: "Missing photo"
@@ -187,24 +188,6 @@ feature_row2:
               - Optimization and Control<br />
               - Model Order Reduction<br />
               "
-
-  - image_path: /assets/images/alhasan-photo.jpg
-    alt: "Missing photo"
-    title: ""
-    excerpt: ""
-    url: "https://alhasanabdellatif.medium.com/"
-    btn_label: "webpage"
-    btn_class: "btn--primary"
-    excerpt: "<h2>Alhasan Abdellatif (PhD)</h2>
-              **Education & Biography**<br />
-              - PhD 2023, Heriot-Watt University, UK<br />
-              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
-              **Research**<br />
-              - Generative adversarial networks<br />
-              - Deep learning and image segmentation<br />
-              - Kernel Methods<br />
-            "
-
   - image_path: /assets/images/alex-photo.jpg
     alt: "Missing photo"
     title: ""
@@ -220,6 +203,22 @@ feature_row2:
               - Bayesian Methods and Experimental design<br />
               - Machine learning<br />
               - Lattice Boltzmann Methods<br />
+            "
+  - image_path: /assets/images/mosayeb_photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://www.linkedin.com/in/mosayebshams/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Mosayeb Shams (PhD)</h2>
+              **Education & Biography**<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
+              - PhD, Imperial College London, United Kingdom<br />
+              **Research**<br />
+              - Reinforcement Learning<br />
+              - Computational Physics<br />
+              - Optimisation and Control<br />
             "
 ---
 
@@ -246,7 +245,7 @@ I lead the AI4NetZero research group at Heriot-Watt University in Edinburgh. Our
             <a href="https://github.com/gymprecice/gymprecice">Gym-preCICE</a> an open source library to facilitate the development of Reinforcement Learning (RL) environments for single- and multi-physics active flow control (AFC) applications
         </li>
         <li>
-            <a href="https://github.com/ahmed-h-elsheikh/polychaos-learn">polychaos-learn</a> an open source Polynomial Chaos Expansions library for surrogate modeling, uncertainty quantification and optimal experimental design
+            <a href="https://github.com/ai4netzero/polychaos-learn">polychaos-learn</a> an open source Polynomial Chaos Expansions library for surrogate modeling, uncertainty quantification and optimal experimental design
         </li>
     </ul>
 </div>

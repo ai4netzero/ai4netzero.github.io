@@ -24,22 +24,6 @@ feature_row1:
               - Multiscale & Mathematical modeling<br />
               - Uncertainty Quantification<br />
             "
-  - image_path: /assets/images/mosayeb_photo.jpg
-    alt: "Missing photo"
-    title: ""
-    excerpt: ""
-    url: "https://www.linkedin.com/in/mosayebshams/"
-    btn_label: "webpage"
-    btn_class: "btn--primary"
-    excerpt: "<h2>Mosayeb Shams (PhD)</h2>
-              **Education & Biography**<br />
-              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
-              - PhD, Imperial College London, United Kingdom<br />
-              **Research**<br />
-              - Reinforcement Learning<br />
-              - Computational Physics<br />
-              - Optimisation and Control<br />
-            "
   - image_path: /assets/images/haifa_photo.jpg
     alt: "Missing photo"
     title: ""
@@ -71,6 +55,23 @@ feature_row1:
               - Deep Learning<br />
               - Computer Vision<br />
               - Reservoir Data Analysisl<br />
+            "
+  - image_path: /assets/images/alhasan-photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://alhasanabdellatif.medium.com/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Alhasan Abdellatif (PhD)</h2>
+              **Education & Biography**<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
+              - PhD 2023, Heriot-Watt University, UK<br />
+              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
+              **Research**<br />
+              - Generative adversarial networks<br />
+              - Deep learning and image segmentation<br />
+              - Kernel Methods<br />
             "
   - image_path: /assets/images/chinTee-photo.jpg
     alt: "Missing photo"
@@ -185,24 +186,6 @@ feature_row2:
               - Optimization and Control<br />
               - Model Order Reduction<br />
               "
-
-  - image_path: /assets/images/alhasan-photo.jpg
-    alt: "Missing photo"
-    title: ""
-    excerpt: ""
-    url: "https://alhasanabdellatif.medium.com/"
-    btn_label: "webpage"
-    btn_class: "btn--primary"
-    excerpt: "<h2>Alhasan Abdellatif (PhD)</h2>
-              **Education & Biography**<br />
-              - PhD 2023, Heriot-Watt University, UK<br />
-              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
-              **Research**<br />
-              - Generative adversarial networks<br />
-              - Deep learning and image segmentation<br />
-              - Kernel Methods<br />
-            "
-
   - image_path: /assets/images/alex-photo.jpg
     alt: "Missing photo"
     title: ""
@@ -219,6 +202,22 @@ feature_row2:
               - Machine learning<br />
               - Lattice Boltzmann Methods<br />
             "
+  - image_path: /assets/images/mosayeb_photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://www.linkedin.com/in/mosayebshams/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Mosayeb Shams (PhD)</h2>
+              **Education & Biography**<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
+              - PhD, Imperial College London, United Kingdom<br />
+              **Research**<br />
+              - Reinforcement Learning<br />
+              - Computational Physics<br />
+              - Optimisation and Control<br />
+              "
 ---
 {% include feature_rows id="feature_row1" type="left"%}
 

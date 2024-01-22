@@ -29,7 +29,7 @@ Venue: Heriot-Watt University, Edinburgh, UK
     <ul>
         <li> Applications are now open to join us for this in-person event at Heriot-Watt University. If successful, you will be eligible to receive £250 in funding, dedicated to covering travel and accommodation expenses. <a href="https://app.oxfordabstracts.com/stages/11372/submitter">[Apply now]</a></li>
         <li>  We are dedicated to fostering an inclusive environment for everyone. Kindly ensure that you complete the EDI form when filling out the application. <a href="https://forms.office.com/e/qftjy6kFp0">[EDI Form]</a></li>
-        <li> <strong>Applications will close Monday 22 January 2024.</strong></li>
+        <li> <strong>Applications will close Monday 29 January 2024.</strong></li>
     </ul>
 </div>
 
