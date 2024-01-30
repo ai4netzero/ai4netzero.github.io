@@ -35,14 +35,15 @@ Our workshop will feature a diverse lineup of sessions led by renowned experts f
 ## Who Should Attend
 The workshop is ideal for researchers, professionals, and students interested in AI applications in environmental sciences, particularly those focusing on CCS technologies. It's an excellent opportunity for anyone eager to contribute to the global effort in reducing carbon emissions through innovative AI-driven solutions.
 
-## Registration
-Registrations for the ECO-AI workshop will open shortly. Please keep an eye on this page to register and have the opportunity to be a part of this enlightening workshop. 
+<!-- ## Registration
+Registrations for the ECO-AI workshop will open shortly. Please keep an eye on this page to register and have the opportunity to be a part of this enlightening workshop. --> 
 <!-- 
+
 Register Now: Click here to register.<br>
 The workshop is open to all interested participants. Registration is required for logistical purposes.
  -->
 ## Contact Us
-If you have any questions about the registration process or the event itself, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk )
+If you are interested in participating in this workshop or have any questions about the event, please contact ECO-AI project manager at [aw2073@hw.ac.uk](mailto:aw2073@hw.ac.uk)
 
 <!-- We're excited to host this enlightening workshop at Heriot-Watt University, bringing together the brightest minds in AI and CCS. Don't miss this opportunity to be at the forefront of AI-driven environmental solutions.
 

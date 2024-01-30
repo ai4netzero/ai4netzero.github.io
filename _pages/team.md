@@ -179,6 +179,7 @@ feature_row2:
     btn_class: "btn--primary"
     excerpt: "<h2>Atish Dixit (PhD)</h2>
               **Education & Biography**<br />
+              - Postdoctoral Research Associate, The University of Edinburgh, UK<br />
               - PhD 2023, Heriot-Watt University, UK<br />
               - M.Tech 2017, Mathematical Modeling and Simulation, University of Pune, India<br />
               **Research**<br />
@@ -195,7 +196,7 @@ feature_row2:
     btn_class: "btn--primary"
     excerpt: "<h2>Alexadner Tarakanov (PhD)</h2>
               **Education & Biography**<br />
-              - Postdoctoral Research Scientist, Mathematic Department, The University of Manchester, UK<br />
+              - Associate Professor at Higher School of Economics, Moscow, Russia<br />
               - PhD 2017, Texas A&M University, USA<br />
               **Research**<br />
               - Bayesian Methods and Experimental design<br />
@@ -211,7 +212,6 @@ feature_row2:
     btn_class: "btn--primary"
     excerpt: "<h2>Mosayeb Shams (PhD)</h2>
               **Education & Biography**<br />
-              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
               - PhD, Imperial College London, United Kingdom<br />
               **Research**<br />
               - Reinforcement Learning<br />

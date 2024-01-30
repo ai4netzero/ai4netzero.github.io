@@ -26,11 +26,13 @@ Venue: Heriot-Watt University, Edinburgh, UK
 
 # Application details
 <div style="background-color: #E8F6E4; padding: 20px; border: 1px solid gray; display: inline-block; border-radius: 20px;">
-    <ul>
+    Applications have now closed. If you have submitted an application, you can expect to receive notification of your application status shortly. Should you have any questions regarding your application in the meantime, please feel free to reach out to ECO-AI project manager at <a href="mailto:aw2073@hw.ac.uk">aw2073@hw.ac.uk</a>
+
+<!--     <ul>
         <li> Applications are now open to join us for this in-person event at Heriot-Watt University. If successful, you will be eligible to receive £250 in funding, dedicated to covering travel and accommodation expenses. <a href="https://app.oxfordabstracts.com/stages/11372/submitter">[Apply now]</a></li>
         <li>  We are dedicated to fostering an inclusive environment for everyone. Kindly ensure that you complete the EDI form when filling out the application. <a href="https://forms.office.com/e/qftjy6kFp0">[EDI Form]</a></li>
         <li> <strong>Applications will close Monday 29 January 2024.</strong></li>
-    </ul>
+    </ul> -->
 </div>
 
 ## What to expect
@@ -66,7 +68,7 @@ The workshop is open to all interested participants. Registration is required fo
  -->
 
 # Contact Us
-If you have any questions about the application process or the event itself, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk )
+If you have any questions about the application process or the event itself, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk)
 
 <!-- We're excited to host this enlightening workshop at Heriot-Watt University, bringing together the brightest minds in AI and CCS. Don't miss this opportunity to be at the forefront of AI-driven environmental solutions.
 
