@@ -42,6 +42,9 @@ Registrations for the ECO-AI workshop will open shortly. Please keep an eye on t
 Register Now: Click here to register.<br>
 The workshop is open to all interested participants. Registration is required for logistical purposes.
  -->
+## Workshop program (updated 05 March 2024)
+![Workshop program](/assets/eco-ai/program_v4_05032024.jpg)
+
 ## Contact Us
 If you are interested in participating in this workshop or have any questions about the event, please contact ECO-AI project manager at [aw2073@hw.ac.uk](mailto:aw2073@hw.ac.uk)
 
