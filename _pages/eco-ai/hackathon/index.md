@@ -21,8 +21,9 @@ Join forces with your fellow researchers (PhD students & PDRAs) from across the 
 Participating researchers will receive informative workshops and mentorship from Heriot-Watt University (HWU) and Imperial College London (ICL) experts working within the ECO-AI project. 
 
 # Event Details
-Date: Wednesday 13 March – Friday 15 March 2024 <br>
-Venue: Heriot-Watt University, Edinburgh, UK
+**Dates:** Wednesday 13 March – Friday 15 March 2024 <br>
+**Location:** Heriot-Watt University, Edinburgh, UK <br>
+**Venue:** Scott Suite, Edinburgh Business School
 
 # Application details
 <div style="background-color: #E8F6E4; padding: 20px; border: 1px solid gray; display: inline-block; border-radius: 20px;">
@@ -66,6 +67,15 @@ The workshop is ideal for PhD students and early career researchers interested i
 Register Now: Click here to register.<br>
 The workshop is open to all interested participants. Registration is required for logistical purposes.
  -->
+# Background & pre-reading
+We expect all participants to possess basic knowledge of Python and some ML tools (e.g., Scikit-learn, PyTorch). For those who are not familiar with these tools, please do some pre-reading on how to use basic Python, NumPy, Pandas, Scikit-learn, and PyTorch using the following resources.
+
+1. [Enthought Numpy Tutorial - SciPyConf 2023](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2023)
+2. [University of Washington Machine Learning with Python Course](https://faculty.washington.edu/otoomet/machinelearning-py/)
+3. [PyTorch Tutorials](https://pytorch.org/tutorials/)
+
+ 
+
 
 # Contact Us
 If you have any questions about the application process or the event itself, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk)

@@ -17,8 +17,11 @@ header:
 Join us for an immersive two-day workshop dedicated to exploring groundbreaking AI solutions in the field of Carbon Capture and Storage (CCS). This event, a key component of the ECO-AI project, aims to address critical challenges in implementing large-scale CCS technologies. We will delve into innovative AI applications that enhance the efficiency and effectiveness of CCS processes.
 
 ## Event Details
-Date & Time: Monday 11 March (Afternoon) & Tuesday 12 March 2024 <br>
-Venue: Heriot-Watt University, Edinburgh, UK
+**Date and Time:** <br>
+Monday 11 March: 13:00 - 17:00 (lunch served from 12:00) <br>
+Tuesday 12 March: 09:00 - 17:00 <br>
+**Location:** Heriot-Watt University, Edinburgh, UK <br>
+**Venue:** Scott Suite, Edinburgh Business School
 
 ## Engaging Sessions and Expert Panels
 Our workshop will feature a diverse lineup of sessions led by renowned experts from the ECO-AI project team at Heriot-Watt University and Imperial College London, along with prominent academic and industry leaders. The workshop will cover a wide range of topics including:
@@ -42,8 +45,8 @@ Registrations for the ECO-AI workshop will open shortly. Please keep an eye on t
 Register Now: Click here to register.<br>
 The workshop is open to all interested participants. Registration is required for logistical purposes.
  -->
-## Workshop program (updated 05 March 2024)
-![Workshop program](/assets/eco-ai/program_v4_05032024.jpg)
+## Workshop program (updated 08 March 2024)
+![Workshop program](/assets/eco-ai/program_v5_08032023.jpg)
 
 ## Contact Us
 If you are interested in participating in this workshop or have any questions about the event, please contact ECO-AI project manager at [aw2073@hw.ac.uk](mailto:aw2073@hw.ac.uk)
