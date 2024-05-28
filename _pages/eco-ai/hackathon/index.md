@@ -14,33 +14,28 @@ header:
   # caption: ""
 
 ---
+
+![Hackathon photo](/assets/eco-ai/HWR61775cc.jpg)
+
+<div class="clickable-boxes">
+  <a href="https://www.hw.ac.uk/news/articles/2024/eco-ai-workshop-and-hackathon-fuels.htm" class="box">Heriot-Watt News Article about the ECO-AI Hackathon</a>
+</div>
+
 # ECO-AI Hackathon: AI-Driven Solutions for Carbon Capture and Storage
+PhD students and PDRAs from across the UK joined forces to innovate and collaborate on exploring AI for NetZero approaches. Over the course of three days, they were challenged to work on unique problems related to carbon capture and storage (CCS), and its economics and policy implications. They were provided with the tools, support, and data needed to write new codes and study current challenges in material discovery using AI, subsurface flow modelling using AI, and uncovering progress by abstract clustering of CCS patents using AI. 
 
-Join forces with your fellow researchers (PhD students & PDRAs) from across the UK to innovate and collaborate exploring AI for NetZero approaches. Over the course of a three days, you'll be challenged to work on unique problems related to carbon capture and storage (CCS), and its economics and policy implications. You will be provided with the tools, support, and data needed to write new codes and study current challenges in material discovery using AI, subsurface flow modelling using AI, and uncovering progress by abstract clustering of CCS patents using AI.
+Participating researchers received informative workshops and mentorship from Heriot-Watt University (HWU) and Imperial College London (ICL) experts working within the ECO-AI project.
 
-Participating researchers will receive informative workshops and mentorship from Heriot-Watt University (HWU) and Imperial College London (ICL) experts working within the ECO-AI project. 
-
-# Event Details
+## Event Details
 **Dates:** Wednesday 13 March – Friday 15 March 2024 <br>
 **Location:** Heriot-Watt University, Edinburgh, UK <br>
 **Venue:** Scott Suite, Edinburgh Business School
 
-# Application details
-<div style="background-color: #E8F6E4; padding: 20px; border: 1px solid gray; display: inline-block; border-radius: 20px;">
-    Applications have now closed. If you have submitted an application, you can expect to receive notification of your application status shortly. Should you have any questions regarding your application in the meantime, please feel free to reach out to ECO-AI project manager at <a href="mailto:aw2073@hw.ac.uk">aw2073@hw.ac.uk</a>
+This was a two-part event. Participants were invited to attend an AI workshop on CCS and the ECO-AI project on 11 & 12 March. This led into the Hackathon where participants had the option to compete in one of three tracks: 
 
-<!--     <ul>
-        <li> Applications are now open to join us for this in-person event at Heriot-Watt University. If successful, you will be eligible to receive £250 in funding, dedicated to covering travel and accommodation expenses. <a href="https://app.oxfordabstracts.com/stages/11372/submitter">[Apply now]</a></li>
-        <li>  We are dedicated to fostering an inclusive environment for everyone. Kindly ensure that you complete the EDI form when filling out the application. <a href="https://forms.office.com/e/qftjy6kFp0">[EDI Form]</a></li>
-        <li> <strong>Applications will close Monday 29 January 2024.</strong></li>
-    </ul> -->
-</div>
-
-## What to expect
-This is a two-part event. You will be invited to attend an AI workshop in CCS and the ECO-AI project on 11 & 12 March. This will lead into the Hackathon (13- 15 March) where you will have the option to compete in one of three tracks: 
-* Machine learning for encoding and decoding of molecules with the aim of designing a powerful decoder that produces valid structures.
-* Machine learning for prediction of dissolution in porous media flow.
-* Machine learning for clustering of CCS patents.
+* Machine learning for encoding and decoding of molecules with the aim of designing a powerful decoder that produces valid structures. 
+* Machine learning for prediction of dissolution in porous media flow. 
+* Machine learning for clustering of CCS patents. 
 
 ## Event Flow
 1. Attend 2-day AI workshop on CCS.
@@ -48,44 +43,67 @@ This is a two-part event. You will be invited to attend an AI workshop in CCS an
 1. Collaborate on solutions over 3-day hackathon.
 1. Demo solutions to experts from industry and academia.
 
+This Hackathon allowed participants to collaborate with peers from outside their own institution and to network with the workshop participants. At the end of the Hackathon, teams had the chance to demonstrate their work to data scientists within the ECO-AI project and industry experts attending the workshop. 
 
-As a participant, you will have access to the required platforms and software **to perform the deep learning experiments during the Hackathon.**
 
-<!-- # Event Highlights
-Date & Time: 13th March - End of 15th March 2024 <br>
-Venue: Heriot-Watt University
- -->
+## Who Attended 
+The hackathon was attended by PhD students and early career researchers interested in AI applications in environmental sciences, particularly those focusing on CCS technologies. It was an excellent opportunity for anyone eager to contribute to the global effort in reducing carbon emissions through innovative AI-driven solutions. 
 
-This Hackathon will allow you to collaborate with your peers from outside your own institution and to network with the workshop participants. At the end of the Hackathon your team will have the chance to demonstrate your work to data scientists within the ECO-AI project and industry experts attending the workshop.
-
-**Food and beverages (brain fuel) will be provided during the event.**
-
-# Who Should Attend
-The workshop is ideal for PhD students and early career researchers interested in AI applications in environmental sciences, particularly those focusing on CCS technologies. It's an excellent opportunity for anyone eager to contribute to the global effort in reducing carbon emissions through innovative AI-driven solutions.
-
-<!-- # Registration:
-Register Now: Click here to register.<br>
-The workshop is open to all interested participants. Registration is required for logistical purposes.
- -->
-# Background & pre-reading
-We expect all participants to possess basic knowledge of Python and some ML tools (e.g., Scikit-learn, PyTorch). For those who are not familiar with these tools, please do some pre-reading on how to use basic Python, NumPy, Pandas, Scikit-learn, and PyTorch using the following resources.
-
+## Background & pre-reading
+All participants were expected to possess basic knowledge of Python and some ML tools (e.g., Scikit-learn, PyTorch). For those who were not familiar with these tools, pre-reading on how to use basic Python, NumPy, Pandas, Scikit-learn, and PyTorch using the following resources was recommended:
 1. [Enthought Numpy Tutorial - SciPyConf 2023](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2023)
 2. [University of Washington Machine Learning with Python Course](https://faculty.washington.edu/otoomet/machinelearning-py/)
 3. [PyTorch Tutorials](https://pytorch.org/tutorials/)
 
- 
 
+## Teams & presentations
 
-# Contact Us
-If you have any questions about the application process or the event itself, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk)
+### [Team Aspririn (CO2 Capture)](/assets/eco-ai/hackathon_presentations_march2024/Aspirin.pdf)
+* Luis Carvalho, University of Aberdeen
+* Charlotte Breakwell, Imperial College London
+* Evangelos Tsochantaris, Heriot Watt University
+* Kieran Nehil-Puleo, Vanderbilt University
 
-<!-- We're excited to host this enlightening workshop at Heriot-Watt University, bringing together the brightest minds in AI and CCS. Don't miss this opportunity to be at the forefront of AI-driven environmental solutions.
+### [Team Autobots (CO2 Capture)](/assets/eco-ai/hackathon_presentations_march2024/Autobots.pdf)
+* Abu Abu-Eyo, University of Aberdeen
+* Rohit Murali, University of Surrey
+* Amin Zarei, University of Surrey
+* Thomas Bernet, Imperial College London
+* Minghui Ye, Heriot-Watt University
 
-Register Now and be a part of the ECO-AI Workshop!
- -->
+### [Team Gen A (CO2 Capture)](/assets/eco-ai/hackathon_presentations_march2024/GenA.pdf)
+* Yongliang Yan, Newcastle University
+* Griffin Gui, Heriot Watt University
+* Florian Baakes, Imperial College London
+* Alhasan Abdellatif, Heriot Watt University
 
-<h2>Tentative Hackathon Agenda:</h2>
+### [Guardians of Carbon (CO2 Storage)](/assets/eco-ai/hackathon_presentations_march2024/Guardians_of_Carbon.pdf)
+* Muhammad Ali, Heriot-Watt University
+* Weilun Xu, Imperial College London
+* Nathalie Pinheiro, Imperial College London
+* Marcos Cirne, Heriot Watt University
+
+### [Minus CO2 (CO2 Storage)](/assets/eco-ai/hackathon_presentations_march2024/Minus_CO2.pdf)
+* Reza Najafi, Heriot-Watt University
+* Judongyang Zhou, Imperial College London
+* Xin Yee Tai, University of Surrey
+* Yuanjing Zhao, University of Surrey
+* Boyang Chen, Imperial College London
+
+### [Carbon Hackers (CO2 Storage)](/assets/eco-ai/hackathon_presentations_march2024/Carbon_Hackers.pdf)
+* Donghu Guo, Imperial College London
+* Rui Li, University of Aberdeen
+* Farah Rabie, Heriot-Watt University
+* Jack LI, University of Edinburgh
+* Vitaly Starikov, Heriot-Watt University
+
+### [P-Clusters (CCS Policy & Economics)](/assets/eco-ai/hackathon_presentations_march2024/P_clusterers.pdf)
+* Victor Rosenberg, Heriot-Watt University
+* Matthew Arran, British Geological Survey
+* Elsy Milan, Imperial College London
+* Nouha Samlani, Teesside University
+
+<h2>Hackathon Agenda:</h2>
 <div style="background-color: #E8F6E4; padding: 20px; border: 1px solid gray; display: inline-block; border-radius: 20px;">
 <table>
   <tr>
@@ -173,4 +191,10 @@ Register Now and be a part of the ECO-AI Workshop!
 </table>
 
 </div>
+
+## Contact Us
+If you have any questions about the event, please contact [ECO-AI project manager](mailto:aw2073@hw.ac.uk)
+
+## Hackathon photos
+![Hackathon photo1](/assets/eco-ai/HWR61789c.jpg)
 
