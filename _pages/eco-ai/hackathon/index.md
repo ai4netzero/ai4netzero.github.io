@@ -15,7 +15,7 @@ header:
 
 ---
 
-![Hackathon photo](/assets/eco-ai/HWR61775cc.jpg)
+![Hackathon photo](/assets/eco-ai/PXL_20240314_100936083c.jpg)
 
 <div class="clickable-boxes">
   <a href="https://www.hw.ac.uk/news/articles/2024/eco-ai-workshop-and-hackathon-fuels.htm" class="box">Heriot-Watt News Article about the ECO-AI Hackathon</a>
