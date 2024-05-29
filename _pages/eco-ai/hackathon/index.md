@@ -97,7 +97,7 @@ All participants were expected to possess basic knowledge of Python and some ML 
 * Jack LI, University of Edinburgh
 * Vitaly Starikov, Heriot-Watt University
 
-### [P-Clusters (CCS Policy & Economics)](/assets/eco-ai/hackathon_presentations_march2024/P_clusterers.pdf)
+### [P-Clusters (CCS Policy & Economics)](/assets/eco-ai/hackathon_presentations_march2024/pclusterers.pdf)
 * Victor Rosenberg, Heriot-Watt University
 * Matthew Arran, British Geological Survey
 * Elsy Milan, Imperial College London
