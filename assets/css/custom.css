@@ -32,3 +32,18 @@
 .box:hover {
   background-color: #d0d0e0; /* change color on hover */
 }
+
+body.hide-nav .masthead,
+body.hide-nav .page__hero--overlay,
+body.hide-nav .page__hero,
+body.hide-nav .page__footer {
+  display: none;
+}
+
+body.hide-nav .page__content {
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+
