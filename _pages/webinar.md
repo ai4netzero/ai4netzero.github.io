@@ -21,10 +21,10 @@ We are excited to announce the launch of the AI for NetZero webinar series, brin
 ## About the Webinar Series 
 The AI for NetZero webinar series will delve into diverse applications of artificial intelligence across various sectors crucial to achieving NetZero objectives, including energy, transport, environment, agriculture, and food systems. 
 
-Expect captivating talks delivered by senior academics and PDRAs from UKRI-funded AI for NetZero projects.  
+Expect captivating talks delivered by senior academics and PDRAs from UKRI-funded AI for NetZero projects. 
+
 - **Frequency**: Weekly, every Tuesday at 2pm (UK time).
-- **Platform**: The webinars will be hosted on the AI for NetZero YouTube channel. 
-- Please subscribe to stay updated with the latest sessions. 
+- **Platform**: The webinars will be hosted on the AI for NetZero YouTube channel [Subscribe to stay updated!](https://www.youtube.com/@ai4netzero?sub_confirmation=1){: .btn .btn--success}
 
 ## Webinar series Coordinators:
 - Professor Ahmed Elsheikh (Heriot-Watt University, UK) 
