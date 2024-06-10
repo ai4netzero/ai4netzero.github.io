@@ -26,22 +26,6 @@ feature_row1:
               - Multiscale & Mathematical modeling<br />
               - Uncertainty Quantification<br />
             "
-  - image_path: /assets/images/haifa_photo.jpg
-    alt: "Missing photo"
-    title: ""
-    excerpt: ""
-    url: "https://www.linkedin.com/in/haifa-s-001/"
-    btn_label: "webpage"
-    btn_class: "btn--primary"
-    excerpt: "<h2>Haifa AlSalmi (PhD)</h2>
-              **Education & Biography**<br />
-              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
-              - PhD, Imperial College London, United Kingdom<br />
-              **Research**<br />
-              - Deep Learning and Image Segmentation<br />
-              - Signal Analysis and processing<br />
-              - Computational Geophysics<br />
-            "
   - image_path: /assets/images/marcos_cirne.jpg
     alt: "Missing photo"
     title: ""
