@@ -27,28 +27,33 @@ Expect captivating talks delivered by senior academics and PDRAs from UKRI-funde
 - **Platform**: The webinars will be hosted on the AI for NetZero YouTube channel [Subscribe to stay updated!](https://www.youtube.com/@ai4netzero?sub_confirmation=1){: .btn .btn--success}
 
 ## Webinar series Coordinators:
-- Professor Ahmed Elsheikh (Heriot-Watt University, UK)
+- Professor Ahmed H. Elsheikh (Heriot-Watt University, UK)
 - Professor Heiko Balzter (University of Leicester, UK)
 - Professor Hongjian Sun (Durham University, UK)
+- Professor John Doonan (Aberystwyth University, UK)
+- Professor Georgios Rigas (Imperial College London, UK)
+- Professor Danny Williamson (University of Exeter, UK)
+- Professor Michael Short (University of Surrey, UK)
 - Dr Sarah Perez (Heriot-Watt University, UK)
 - Dr Amin Zarei (University of Surrey, UK)
 
-## Webinar series Executive board:
-- Professor John Doonan (Aberystwyth University, UK)
-- Dr Georgios Rigas (Imperial College London, UK)
-- Professor Danny Williamson (University of Exeter, UK)
-- Dr Michael Short (University of Surrey, UK)
 
 ## Next Session
 <!-- - Professor Heiko Balzter (University of Leicester, UK) - 18 June 2024 14:00-15:00 (BST)
  -->
-![image-center](/assets/images/webinar/HB_18062024.jpg){: .align-center style="border-radius: 15px;"}
+![image-center](/assets/images/webinar/25062024.jpg){: .align-center style="border-radius: 15px;"}
 
 
 ## Upcoming Sessions 
 - Professor Clare McCabe (Heriot-Watt University, UK) -  [talk title and time, TBD]
 <!-- ,  Tuesday 18 June, 2pm (UK time) 
  -->
+
+## Previous Sessions
+<!-- - Professor Heiko Balzter (University of Leicester, UK) - 18 June 2024 14:00-15:00 (BST)
+ -->
+![image-center](/assets/images/webinar/HB_18062024.jpg){: .align-center style="border-radius: 15px;"}
+
 
 ## Updates 
 <!-- Keep an eye out for further updates and exciting speaker announcements! 
