@@ -41,17 +41,10 @@ Expect captivating talks delivered by senior academics and PDRAs from UKRI-funde
 ## Next Session
 <!-- - Professor Heiko Balzter (University of Leicester, UK) - 18 June 2024 14:00-15:00 (BST)
  -->
-![image-center](/assets/images/webinar/25062024.jpg){: .align-center style="border-radius: 15px;"}
-
-
-## Upcoming Sessions 
-- Professor Clare McCabe (Heriot-Watt University, UK) -  [talk title and time, TBD]
-<!-- ,  Tuesday 18 June, 2pm (UK time) 
- -->
+![image-center](/assets/images/webinar/02072024.jpg){: .align-center style="border-radius: 15px;"}
 
 ## Previous Sessions
-<!-- - Professor Heiko Balzter (University of Leicester, UK) - 18 June 2024 14:00-15:00 (BST)
- -->
+![image-center](/assets/images/webinar/25062024.jpg){: .align-center style="border-radius: 15px;"}
 ![image-center](/assets/images/webinar/HB_18062024.jpg){: .align-center style="border-radius: 15px;"}
 
 
