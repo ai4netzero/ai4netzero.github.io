@@ -11,6 +11,7 @@ header:
   # overlay_image: /assets/images/AI4NZ_webinar.jpg
   # overlay_filter: 0.1  # An optional overlay filter to darken the image (value is between 0 and 1)
 feature_row:
+  - image_path: /assets/images/webinar/09072024.jpg
   - image_path: /assets/images/webinar/02072024.jpg
   - image_path: /assets/images/webinar/25062024.jpg
   - image_path: /assets/images/webinar/HB_18062024.jpg
@@ -43,7 +44,7 @@ Expect captivating talks delivered by senior academics and PDRAs from UKRI-funde
 
 
 ## Next Session
-![image-center](/assets/images/webinar/09072024.jpg){: .align-center style="border-radius: 15px;"}
+![image-center](/assets/images/webinar/16072024.jpg){: .align-center style="border-radius: 15px;"}
 
 ## Previous Sessions
 {% include feature_row %}
