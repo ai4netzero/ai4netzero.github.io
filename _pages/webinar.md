@@ -51,7 +51,7 @@ Expect captivating talks delivered by senior academics and PDRAs from UKRI-funde
 - Professor Michael Short (University of Surrey, UK)
 - Dr Sarah Perez (Heriot-Watt University, UK)
 - Dr Amin Zarei (University of Surrey, UK)
-
+- Dr Goyal Awagan (Northumbria University, UK) 
 
 ## Next Session
 ![image-center](/assets/images/webinar/24092024.jpg){: .align-center style="border-radius: 15px;"}
