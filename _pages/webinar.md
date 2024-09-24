@@ -11,6 +11,7 @@ header:
   # overlay_image: /assets/images/AI4NZ_webinar.jpg
   # overlay_filter: 0.1  # An optional overlay filter to darken the image (value is between 0 and 1)
 feature_row:
+  - image_path: /assets/images/webinar/24092024.jpg
   - image_path: /assets/images/webinar/17092024.jpg
   - image_path: /assets/images/webinar/10092024.jpg
   - image_path: /assets/images/webinar/03092024.jpg
@@ -54,7 +55,7 @@ Expect captivating talks delivered by senior academics and PDRAs from UKRI-funde
 - Dr Goyal Awagan (Northumbria University, UK) 
 
 ## Next Session
-![image-center](/assets/images/webinar/24092024.jpg){: .align-center style="border-radius: 15px;"}
+![image-center](/assets/images/webinar/01102024.jpg){: .align-center style="border-radius: 15px;"}
 
 ## Previous Sessions
 {% include feature_row %}
