@@ -11,6 +11,7 @@ header:
   # overlay_image: /assets/images/AI4NZ_webinar.jpg
   # overlay_filter: 0.1  # An optional overlay filter to darken the image (value is between 0 and 1)
 feature_row:
+  - image_path: /assets/images/webinar/15102024.jpg
   - image_path: /assets/images/webinar/08102024.jpg
   - image_path: /assets/images/webinar/01102024.jpg
   - image_path: /assets/images/webinar/24092024.jpg
@@ -39,7 +40,7 @@ We are excited to announce the successful launch and ongoing progress of the AI 
 ## About the Webinar Series 
 The AI for NetZero webinar series has been exploring diverse applications of artificial intelligence across various sectors crucial to achieving NetZero objectives, including energy, transport, environment, agriculture, and food systems. 
 
-Expect captivating talks delivered by senior academics and PDRAs from UKRI-funded AI for NetZero projects. 
+Expect captivating talks delivered by experts and early career researchers in the field of AI for NetZero.
 
 - **Frequency**: Weekly, every Tuesday at 2pm (UK time).
 - **Platform**: The webinars are hosted on the AI for NetZero YouTube channel [Subscribe to stay updated!](https://www.youtube.com/@ai4netzero?sub_confirmation=1){: .btn .btn--success}
@@ -55,9 +56,10 @@ Expect captivating talks delivered by senior academics and PDRAs from UKRI-funde
 - Dr Sarah Perez (Heriot-Watt University, UK)
 - Dr Amin Zarei (University of Surrey, UK)
 - Dr Goyal Awagan (Northumbria University, UK) 
+- Dr. Mengjia Zhu (University of Manchester, UK) 
 
 ## Next Session
-![image-center](/assets/images/webinar/15102024.jpg){: .align-center style="border-radius: 15px;"}
+![image-center](/assets/images/webinar/22102024.jpg){: .align-center style="border-radius: 15px;"}
 
 ## Previous Sessions
 {% include feature_row %}
