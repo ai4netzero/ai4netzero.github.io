@@ -59,8 +59,9 @@ Expect captivating talks delivered by experts and early career researchers in th
 - Dr. Mengjia Zhu (University of Manchester, UK) 
 
 ## Next Session
-![image-center](/assets/images/webinar/22102024.jpg){: .align-center style="border-radius: 15px;"}
-
+<div style="text-align: center; font-weight: bold; border-radius: 25px; font-size: 2em;">
+  The webinar on the 22nd of October has been rescheduled to Tuesday, 19 November
+</div>
 ## Previous Sessions
 {% include feature_row %}
 
