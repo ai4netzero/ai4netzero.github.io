@@ -11,6 +11,7 @@ header:
   # overlay_image: /assets/images/AI4NZ_webinar.jpg
   # overlay_filter: 0.1  # An optional overlay filter to darken the image (value is between 0 and 1)
 feature_row:
+  - image_path: /assets/images/webinar/29102024.jpg
   - image_path: /assets/images/webinar/15102024.jpg
   - image_path: /assets/images/webinar/08102024.jpg
   - image_path: /assets/images/webinar/01102024.jpg
@@ -59,7 +60,7 @@ Expect captivating talks delivered by experts and early career researchers in th
 - Dr. Mengjia Zhu (University of Manchester, UK) 
 
 ## Next Session
-![image-center](/assets/images/webinar/29102024.jpg){: .align-center style="border-radius: 15px;"}
+![image-center](/assets/images/webinar/05112024.jpg){: .align-center style="border-radius: 15px;"}
 
 ## Previous Sessions
 {% include feature_row %}
