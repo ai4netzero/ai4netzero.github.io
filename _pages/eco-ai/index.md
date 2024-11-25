@@ -17,8 +17,8 @@ header:
 ---
 
 <div class="clickable-boxes">
-  <a href="/eco-ai/workshop" class="box">Check the presentations for the <br>ECO-AI Workshop (March, 2024)</a>
-  <a href="/eco-ai/hackathon" class="box">Check the presentations for the <br>ECO-AI Hackathon (March, 2024)</a>
+  <a href="/eco-ai/workshop/2025" class="box">Join us at the upcomming: <br>ECO-AI Workshop (24-25 March, 2025)</a>
+  <a href="/eco-ai/hackathon/2025" class="box">Register for the upcomming: <br>ECO-AI Hackathon (26-28 March, 2025)</a>
 </div>
 
 
@@ -29,9 +29,9 @@ ECO-AI is a UKRI funded project (Grant references: [EP/Y006143/1](https://gow.ep
 - AI-solvers for modelling CO2 flow in geological storage formations
 - Modelling CO2 target progress coupled with innovation trajectories for each industrial sector
 
-<div style="background-color: #e6ffe6; padding: 10px; border: 3px solid #006400; display: inline-block; border-radius: 15px;">
+<!-- <div style="background-color: #e6ffe6; padding: 10px; border: 3px solid #006400; display: inline-block; border-radius: 15px;">
 <a href="/opportunities/"> <strong>We are hiring multiple PDRAs - checkout these opportunities </strong> </a>
-</div>
+</div> -->
 <!-- ****
 {: .notice--danger}
  -->
