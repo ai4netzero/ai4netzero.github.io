@@ -23,8 +23,7 @@ header:
 
 
 ## Enabling CO2 capture and storage using AI 
-
-ECO-AI is a UKRI funded project (Grant references: [EP/Y006143/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y006143/1), [EP/Y005732/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y005732/1)) to address key barriers for large scale Carbon Capture and Storage (CCS) implementation including: a) high energy demands of the capture process, b) high cost for predicting and monitoring CO2 plume migration, storage conformance and caprock integrity, and c) uncertainties in financing CCS projects and lack of understanding of the impact of regulatory and/or market interventions on achieving the UK NetZero targets. The project team aims to address these barriers by developing
+ECO-AI is a UKRI funded project (Grant references: [EP/Y006143/1](https://gtr.ukri.org/projects?ref=EP/Y006143/1), [EP/Y005732/1](https://gtr.ukri.org/projects?ref=EP/Y005732/1)) to address key barriers for large scale Carbon Capture and Storage (CCS) implementation including: a) high energy demands of the capture process, b) high cost for predicting and monitoring CO2 plume migration, storage conformance and caprock integrity, and c) uncertainties in financing CCS projects and lack of understanding of the impact of regulatory and/or market interventions on achieving the UK NetZero targets. The project team aims to address these barriers by developing
 - AI materials discovery pipeline for energy efficient CO2 capture
 - AI-solvers for modelling CO2 flow in geological storage formations
 - Modelling CO2 target progress coupled with innovation trajectories for each industrial sector

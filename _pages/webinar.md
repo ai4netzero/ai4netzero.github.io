@@ -89,10 +89,34 @@ Expect captivating talks delivered by experts and early career researchers in th
 - Dr. Mengjia Zhu (University of Manchester, UK) 
 
 
-## Next Session
-![image-center](/assets/images/webinar/10122024.jpg){: .align-center style="border-radius: 15px;"}
+## Please check the upcoming webinars on the YouTube channel
 
-## Previous Sessions
+<div style="margin: 2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
+  <a href="https://www.youtube.com/@ai4netzero" style="text-decoration: none; color: inherit;">
+    <div style="display: flex; align-items: center; padding: 1.5rem; border-radius: 8px; background-color: #f8f9fa; border: 1px solid #e9ecef; transition: all 0.3s ease;">
+      <!-- Channel Icon -->
+      <div style="margin-right: 1.5rem;">
+        <img src="https://yt3.ggpht.com/1igKrU5almddlPkNoT2ICgX2va3fBWz5UHYvFCAZba491LDniorUGMq4LWmN1jF4i8zoZbTj2w=s88-c-k-c0x00ffffff-no-rj" 
+             alt="AI for NetZero Webinars Icon" 
+             style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      </div>
+      <!-- Channel Info -->
+      <div>
+        <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; font-weight: 600; color: #212529;">AI for NetZero Webinars</h3>
+        <div style="display: inline-flex; align-items: center; padding: 0.5rem 1rem; background-color: #ff0000; color: white; border-radius: 4px; font-size: 0.9rem;">
+          <svg style="margin-right: 0.5rem;" viewBox="0 0 24 24" width="24" height="24">
+              <path fill="currentColor" d="M9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+          </svg>
+          <span style="font-weight: 500;">Watch on YouTube</span>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<!-- ![image-center](/assets/images/webinar/10122024.jpg){: .align-center style="border-radius: 15px;"} -->
+
+## Previous Sessions in 2024
 {% include feature_row %}
 
 ## Updates 
