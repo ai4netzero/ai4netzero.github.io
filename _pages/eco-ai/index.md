@@ -17,8 +17,8 @@ header:
 ---
 
 <div class="clickable-boxes">
-  <a href="/eco-ai/workshop/2025" class="box">Join us at the upcomming: <br>ECO-AI Workshop (24-25 March, 2025)</a>
-  <a href="/eco-ai/hackathon/2025" class="box">Register for the upcomming: <br>ECO-AI Hackathon (26-28 March, 2025)</a>
+  <a href="/eco-ai/workshop/2025" class="box"><br>ECO-AI Workshop (24-25 March, 2025)</a>
+  <a href="/eco-ai/hackathon/2025" class="box"><br>ECO-AI Hackathon (26-28 March, 2025)</a>
 </div>
 
 
