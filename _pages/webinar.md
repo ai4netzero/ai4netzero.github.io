@@ -72,7 +72,7 @@ The AI for NetZero webinar series has been exploring diverse applications of art
 
 Expect captivating talks delivered by experts and early career researchers in the field of AI for NetZero.
 
-- **Frequency**: Weekly, every Tuesday at 2pm (UK time).
+- **Frequency**: Monthly, first Tuesday of each month at 2pm (UK time).
 - **Platform**: The webinars are hosted on the AI for NetZero YouTube channel [Subscribe to stay updated!](https://www.youtube.com/@ai4netzero?sub_confirmation=1){: .btn .btn--success}
 
 ## Webinar series Coordinators:
