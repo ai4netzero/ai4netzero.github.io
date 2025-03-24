@@ -17,10 +17,9 @@ header:
 ---
 
 <div class="clickable-boxes">
-  <a href="/eco-ai/workshop/2025" class="box"><br>ECO-AI Workshop (24-25 March, 2025)</a>
-  <a href="/eco-ai/hackathon/2025" class="box"><br>ECO-AI Hackathon (26-28 March, 2025)</a>
+  <a href="/eco-ai/workshop/2025" class="box">ECO-AI Workshop (24-25 March, 2025)</a>
+  <a href="/eco-ai/hackathon/2025" class="box">ECO-AI Hackathon (26-28 March, 2025)</a>
 </div>
-
 
 ## Enabling CO2 capture and storage using AI 
 ECO-AI is a UKRI funded project (Grant references: [EP/Y006143/1](https://gtr.ukri.org/projects?ref=EP/Y006143/1), [EP/Y005732/1](https://gtr.ukri.org/projects?ref=EP/Y005732/1)) to address key barriers for large scale Carbon Capture and Storage (CCS) implementation including: a) high energy demands of the capture process, b) high cost for predicting and monitoring CO2 plume migration, storage conformance and caprock integrity, and c) uncertainties in financing CCS projects and lack of understanding of the impact of regulatory and/or market interventions on achieving the UK NetZero targets. The project team aims to address these barriers by developing
