@@ -4,7 +4,6 @@
     border-radius: 10px;
 }
 
-
 .clickable-boxes {
   display: flex;
   flex-wrap: wrap;
@@ -46,4 +45,7 @@ body.hide-nav .page__content {
 
 }
 
-
+.layout-splash .page-header::before {
+  background-size: 80% auto !important;
+  background-position: center;
+}

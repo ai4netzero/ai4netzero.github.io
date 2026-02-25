@@ -24,71 +24,70 @@ feature_row1:
               - Multiscale & Mathematical modeling<br />
               - Uncertainty Quantification<br />
             "
-
-  - image_path: /assets/images/marcos_cirne.jpg
+  - image_path: /assets/images/Ali-photo.jpg
     alt: "Missing photo"
     title: ""
     excerpt: ""
-    url: "https://scholar.google.com/citations?user=je8YxFkAAAAJ&hl=en"
+    url: "https://scholar.google.com/citations?user=r71IY7oAAAAJ&hl=en"
     btn_label: "webpage"
     btn_class: "btn--primary"
-    excerpt: "<h2>Marcos Cirne (PhD)</h2>
+    excerpt: "<h2>Ali Q. Raeini (PhD)</h2>
               **Education & Biography**<br />
-              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
-              - PhD, Universidade Estadual de Campinas, Brazil<br />
+              - Research Associate, Heriot-Watt University, UK<br />
+              - Senior Software Developer, 2021-2024, Aspen Technologies<br />
+              - PhD, 2013, Imperial College London<br />
               **Research**<br />
-              - Deep Learning<br />
-              - Computer Vision<br />
-              - Reservoir Data Analysisl<br />
+              - Computational physics<br />
+              - Reservoir and pore-scale modelling<br />
+              - Data science and machine learning<br />
             "
-  - image_path: /assets/images/alhasan-photo.jpg
+  - image_path: /assets/images/Sarah-photo.jpg
     alt: "Missing photo"
     title: ""
     excerpt: ""
-    url: "https://alhasanabdellatif.medium.com/"
+    url: "https://researchportal.hw.ac.uk/en/persons/sarah-perez/"
     btn_label: "webpage"
     btn_class: "btn--primary"
-    excerpt: "<h2>Alhasan Abdellatif (PhD)</h2>
+    excerpt: "<h2>Sarah Perez (PhD)</h2>
               **Education & Biography**<br />
-              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
-              - PhD 2023, Heriot-Watt University, UK<br />
-              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK<br />
+              - PhD, 2023, University of Pau, France<br />
               **Research**<br />
-              - Generative adversarial networks<br />
-              - Deep learning and image segmentation<br />
-              - Kernel Methods<br />
+              - Uncertainty Quantification and Propagation<br />
+              - Physics-Informed and Bayesian Neural Networks<br />
+              - Multiscale and Mathematical Modelling<br />
             "
-  - image_path: /assets/images/chinTee-photo.jpg
+  - image_path: /assets/images/Zilin-photo.jpg
     alt: "Missing photo"
     title: ""
     excerpt: ""
-    url: "https://www.linkedin.com/in/chin-tee-ang-31498026/"
+    url: "https://www.researchgate.net/profile/Zilin-Song-2"
     btn_label: "webpage"
     btn_class: "btn--primary"
-    excerpt: "<h2>Chin Tee Ang (MAsc)</h2>
+    excerpt: "<h2>Zilin Song (PhD)</h2>
               **Education & Biography**<br />
-              - PhD student, Heriot-Watt University, UK<br />
-              - Master of Science, 2020, Petroleum Geoscience, Universiti Teknologi Petronas, Malaysia<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK<br />
+              - PhD, The Chinese University of Hong Kong, HK<br />
               **Research**<br />
-              - Machine learning for seismic interpretation<br />
-              - Neural network architecture optimization<br />
-              - Geological realism and constraints<br />
+              - Deep Learning for Seismic Monitoring<br />
+              - Transfer Learning & Generalization<br />
+              - Volcano Seismology<br />
             "
-  - image_path: /assets/images/sharif-photo.jpg
+  - image_path: /assets/images/Josh-photo.jpg
     alt: "Missing photo"
     title: ""
     excerpt: ""
-    url: "https://www.linkedin.com/in/sharifrahman/"
+    url: "https://scholar.google.com.au/citations?user=Q9NS_9cAAAAJ&hl=en&inst=16061989973938494330"
     btn_label: "webpage"
     btn_class: "btn--primary"
-    excerpt: "<h2>Sharif Rahman (MAsc)</h2>
+    excerpt: "<h2>Zhenkai (Josh) Bo (PhD)</h2>
               **Education & Biography**<br />
-              - PhD student, Heriot-Watt University, UK<br />
-              - Master of Science, 2013, Petroleum Geoscience, University of Manchester, UK<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK<br />
+              - PhD 2024, University of Queensland, Australia<br />
               **Research**<br />
-              - Geophysics<br />
-              - Deep learning and image super-resolution mapping<br />
-              - Temporal alignment<br />
+              - Multi-scale geomodelling<br />
+              - Computer vision<br />
+              - Data assimilation<br />
             "
   - image_path: /assets/images/minghui_ye.jpg
     alt: "Missing photo"
@@ -203,21 +202,86 @@ feature_row2:
               - Computational Physics<br />
               - Optimisation and Control<br />
               "
-  - image_path: /assets/images/haifa_photo.jpg
+  - image_path: /assets/images/marcos_cirne.jpg
     alt: "Missing photo"
     title: ""
     excerpt: ""
-    url: "https://www.linkedin.com/in/haifa-s-001/"
+    url: "https://scholar.google.com/citations?user=je8YxFkAAAAJ&hl=en"
     btn_label: "webpage"
     btn_class: "btn--primary"
-    excerpt: "<h2>Haifa AlSalmi (PhD)</h2>
+    excerpt: "<h2>Marcos Cirne (PhD)</h2>
               **Education & Biography**<br />
-              - PhD, Imperial College London, United Kingdom<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
+              - PhD, Universidade Estadual de Campinas, Brazil<br />
               **Research**<br />
-              - Deep Learning and Image Segmentation<br />
-              - Signal Analysis and processing<br />
-              - Computational Geophysics<br />
+              - Deep Learning<br />
+              - Computer Vision<br />
+              - Reservoir Data Analysisl<br />
             "
+  - image_path: /assets/images/alhasan-photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://alhasanabdellatif.medium.com/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Alhasan Abdellatif (PhD)</h2>
+              **Education & Biography**<br />
+              - Postdoctoral Research Associate, Heriot-Watt University, UK <br />
+              - PhD 2023, Heriot-Watt University, UK<br />
+              - Master of Science, Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia, Spain<br />
+              **Research**<br />
+              - Generative adversarial networks<br />
+              - Deep learning and image segmentation<br />
+              - Kernel Methods<br />
+            "
+  - image_path: /assets/images/chinTee-photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://www.linkedin.com/in/chin-tee-ang-31498026/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Chin Tee Ang (MAsc)</h2>
+              **Education & Biography**<br />
+              - PhD student, Heriot-Watt University, UK<br />
+              - Master of Science, 2020, Petroleum Geoscience, Universiti Teknologi Petronas, Malaysia<br />
+              **Research**<br />
+              - Machine learning for seismic interpretation<br />
+              - Neural network architecture optimization<br />
+              - Geological realism and constraints<br />
+            "
+  - image_path: /assets/images/sharif-photo.jpg
+    alt: "Missing photo"
+    title: ""
+    excerpt: ""
+    url: "https://www.linkedin.com/in/sharifrahman/"
+    btn_label: "webpage"
+    btn_class: "btn--primary"
+    excerpt: "<h2>Sharif Rahman (MAsc)</h2>
+              **Education & Biography**<br />
+              - PhD student, Heriot-Watt University, UK<br />
+              - Master of Science, 2013, Petroleum Geoscience, University of Manchester, UK<br />
+              **Research**<br />
+              - Geophysics<br />
+              - Deep learning and image super-resolution mapping<br />
+              - Temporal alignment<br />
+            "
+  # - image_path: /assets/images/haifa_photo.jpg
+  #   alt: "Missing photo"
+  #   title: ""
+  #   excerpt: ""
+  #   url: "https://www.linkedin.com/in/haifa-s-001/"
+  #   btn_label: "webpage"
+  #   btn_class: "btn--primary"
+  #   excerpt: "<h2>Haifa AlSalmi (PhD)</h2>
+  #             **Education & Biography**<br />
+  #             - PhD, Imperial College London, United Kingdom<br />
+  #             **Research**<br />
+  #             - Deep Learning and Image Segmentation<br />
+  #             - Signal Analysis and processing<br />
+  #             - Computational Geophysics<br />
+  #           "
 ---
 {% include feature_rows id="feature_row1" type="left"%}
 
