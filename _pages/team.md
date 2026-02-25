@@ -242,9 +242,10 @@ feature_row2:
     url: "https://www.linkedin.com/in/chin-tee-ang-31498026/"
     btn_label: "webpage"
     btn_class: "btn--primary"
-    excerpt: "<h2>Chin Tee Ang (MAsc)</h2>
+    excerpt: "<h2>Chin Tee Ang (PhD)</h2>
               **Education & Biography**<br />
-              - PhD student, Heriot-Watt University, UK<br />
+              - Researcher at PETRONAS, Malaysia<br />
+              - PhD 2025, Heriot-Watt University, UK<br />
               - Master of Science, 2020, Petroleum Geoscience, Universiti Teknologi Petronas, Malaysia<br />
               **Research**<br />
               - Machine learning for seismic interpretation<br />
@@ -258,9 +259,10 @@ feature_row2:
     url: "https://www.linkedin.com/in/sharifrahman/"
     btn_label: "webpage"
     btn_class: "btn--primary"
-    excerpt: "<h2>Sharif Rahman (MAsc)</h2>
+    excerpt: "<h2>Sharif Rahman (PhD)</h2>
               **Education & Biography**<br />
-              - PhD student, Heriot-Watt University, UK<br />
+              - Researcher at PETRONAS, Malaysia<br />
+              - PhD 2025, Heriot-Watt University, UK<br />
               - Master of Science, 2013, Petroleum Geoscience, University of Manchester, UK<br />
               **Research**<br />
               - Geophysics<br />
